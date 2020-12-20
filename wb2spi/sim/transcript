@@ -1,0 +1,6 @@
+# do run.do
+# ** Error: bad subcommand "-rfv": must be close, info, new, open, save, or trace
+# Error in macro ./run.do line 1
+# bad subcommand "-rfv": must be close, info, new, open, save, or trace
+#     while executing
+# "rm -rfv *~ *.ucdb vsim.dbg *.vstf *.log work *.mem *.transcript.txt certe_dump.xml *.wlf transcript covhtmlreport VRMDATA"
