@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-12-30T08:02:37.386Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="FIQSFvkqM1l8fGXJzPj3" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T08:06:55.038Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="2uwSS7J44HcfyPU_c1k3" version="14.1.3" type="github">
   <diagram id="C_O_ZMxTlljodNBXf9En" name="Page-1">
     <mxGraphModel dx="2009" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8R_pMyDKRRWHcROmqkUm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8R_pMyDKRRWHcROmqkUm-1" target="8R_pMyDKRRWHcROmqkUm-4">
+        <mxCell id="8R_pMyDKRRWHcROmqkUm-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8R_pMyDKRRWHcROmqkUm-1" target="8R_pMyDKRRWHcROmqkUm-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8R_pMyDKRRWHcROmqkUm-1" value="flask" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="8R_pMyDKRRWHcROmqkUm-1" value="flask&#xa;https://www.w3cschool.cn/flask/flask_application.html" style="rounded=0;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry y="110" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8R_pMyDKRRWHcROmqkUm-2" value="jinja2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="110" width="120" height="60" as="geometry" />
@@ -16,11 +16,14 @@
         <mxCell id="8R_pMyDKRRWHcROmqkUm-3" value="wsgi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8R_pMyDKRRWHcROmqkUm-4" value="1、route修饰器告诉函数，哪个URL调用此函数； route(rule, options),rule是URL，options是" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="250" width="490" height="60" as="geometry" />
+        <mxCell id="8R_pMyDKRRWHcROmqkUm-4" value="1、route修饰器告诉函数，哪个URL调用此函数； route(rule, options),rule是URL，options 是要转发给基础Rule对象的参数列表&#xa;2、app.run(host, port, debug, options)&#xa;" style="rounded=0;whiteSpace=wrap;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="290" width="545" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8R_pMyDKRRWHcROmqkUm-8" value="&lt;pre class=&quot;prettyprint notranslate&quot; style=&quot;color: rgb(0 , 0 , 0) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; margin-top: 15px ; margin-bottom: 15px ; padding: 10px ; position: relative ; width: 980px ; box-sizing: border-box ; line-height: 1.7 ; border-radius: 3px ; font-size: 14px ; font-family: &amp;quot;consolas&amp;quot; , &amp;quot;liberation mono&amp;quot; , &amp;quot;menlo&amp;quot; , &amp;quot;courier&amp;quot; , monospace ; overflow-x: auto ; border: 1px solid rgb(32 , 30 , 47) ; overflow-wrap: break-word&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;from flask import Flask&lt;br&gt;app = Flask(__name__)&lt;br&gt;&lt;br&gt;@app.route(&#39;/&#39;)&lt;br&gt;def hello_world():&lt;br&gt;   return &#39;Hello World&#39;&lt;br&gt;&lt;br&gt;if __name__ == &#39;__main__&#39;:&lt;br&gt;   app.run()&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="130" width="550" height="270" as="geometry" />
+        <mxCell id="8R_pMyDKRRWHcROmqkUm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.468;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="8R_pMyDKRRWHcROmqkUm-11" target="8R_pMyDKRRWHcROmqkUm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8R_pMyDKRRWHcROmqkUm-11" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;from flask import Flask&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;app = Flask(__name__)&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 15px;&quot;&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;@app.route(&#39;/&#39;)&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;def hello_world():&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;return &#39;Hello World&#39;&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 15px;&quot;&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;if __name__ == &#39;__main__&#39;:&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;app.run()&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="40" width="290" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
