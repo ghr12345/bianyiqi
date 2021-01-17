@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T03:14:04.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="lGppRd6XhqWJ6fsFT_ed" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-17T03:23:24.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="9-CjXQdeqdcdkqpSsHew" version="14.1.8" type="github">
   <diagram id="D52wYUwa7AdppvzgQ1sX" name="第 1 页">
-    <mxGraphModel dx="992" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1819" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,110 @@
         <mxCell id="gMsHHSpNyxdrCpWEvyL_-1" value="window" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMsHHSpNyxdrCpWEvyL_-2" target="gMsHHSpNyxdrCpWEvyL_-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gMsHHSpNyxdrCpWEvyL_-2" value="jsGrid" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-4" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;CheckboxField&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-function&quot; dir=&quot;ltr&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;function &lt;/span&gt;CheckboxField(&lt;span class=&quot;param&quot;&gt;config&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="370" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-7" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;ControlField&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-function&quot; dir=&quot;ltr&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;function &lt;/span&gt;ControlField(&lt;span class=&quot;param&quot;&gt;config&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-9" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;Field&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-function&quot; dir=&quot;ltr&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;function &lt;/span&gt;Field(&lt;span class=&quot;param&quot;&gt;config&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-11" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;Grid&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-function&quot; dir=&quot;ltr&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;function &lt;/span&gt;Grid(&lt;span class=&quot;param&quot;&gt;element&lt;/span&gt;&lt;span class=&quot;delimiter&quot;&gt;, &lt;/span&gt;&lt;span class=&quot;param&quot;&gt;config&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-13" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;LoadIndicator&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-function&quot; dir=&quot;ltr&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;function &lt;/span&gt;LoadIndicator(&lt;span class=&quot;param&quot;&gt;config&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-15" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;LoadIndicator&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-function&quot; dir=&quot;ltr&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;function &lt;/span&gt;LoadIndicator(&lt;span class=&quot;param&quot;&gt;config&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-17" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;NumberField&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-function&quot; dir=&quot;ltr&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;function &lt;/span&gt;NumberField(&lt;span class=&quot;param&quot;&gt;config&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-19" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;NumberField&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-function&quot; dir=&quot;ltr&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;function &lt;/span&gt;NumberField(&lt;span class=&quot;param&quot;&gt;config&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-21" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;SelectField&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-function&quot; dir=&quot;ltr&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;function &lt;/span&gt;SelectField(&lt;span class=&quot;param&quot;&gt;config&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-23" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;TextAreaField&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-function&quot; dir=&quot;ltr&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;function &lt;/span&gt;TextAreaField(&lt;span class=&quot;param&quot;&gt;config&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-25" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;TextField&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-function&quot; dir=&quot;ltr&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;function &lt;/span&gt;TextField(&lt;span class=&quot;param&quot;&gt;config&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-27" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;fields&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;objectBox objectBox-object&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-29" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;loadStrategies&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-object&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;Object&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-31" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;locale&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-function&quot; dir=&quot;ltr&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;function &lt;/span&gt;locale(&lt;span class=&quot;param&quot;&gt;lang&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-33" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;locales&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-object&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;Object&lt;/span&gt;&lt;span class=&quot;objectLeftBrace&quot;&gt; { &lt;/span&gt;&lt;span class=&quot;objectRightBrace&quot;&gt; }&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-35" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;setDefaults&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-function&quot; dir=&quot;ltr&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;function &lt;/span&gt;setDefaults(&lt;span class=&quot;param&quot;&gt;config&lt;/span&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-37" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;sortStrategies&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-object&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;Object&lt;/span&gt;&lt;span class=&quot;objectLeftBrace&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
