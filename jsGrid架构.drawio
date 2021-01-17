@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T04:13:37.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="zHk7UiSn_kESe2lnHLlE" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-17T04:39:29.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="iSK8FiX47sU6m-MirBo1" version="14.1.8" type="github">
   <diagram id="D52wYUwa7AdppvzgQ1sX" name="第 1 页">
     <mxGraphModel dx="1819" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
         <mxCell id="gMsHHSpNyxdrCpWEvyL_-37" value="&lt;span class=&quot;message-body-wrapper&quot;&gt;&lt;span class=&quot;message-flex-body&quot;&gt;&lt;span class=&quot;message-body devtools-monospace&quot;&gt;&lt;span class=&quot;object-label&quot;&gt;sortStrategies&lt;/span&gt;&lt;span class=&quot;object-delimiter&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;objectBox objectBox-object&quot;&gt;&lt;span class=&quot;objectTitle&quot;&gt;Object&lt;/span&gt;&lt;span class=&quot;objectLeftBrace&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1160" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gMsHHSpNyxdrCpWEvyL_-39" value="原理就是先通过各种函数各种对象定义，得到一个窗口对象，然后再把窗口对象展现出来" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gMsHHSpNyxdrCpWEvyL_-39" value="原理就是先通过各种函数各种对象定义，得到一个窗口对象，然后再把窗口对象展现出来，展现的时候通过$对象.toggle(true)显示，当toggle(false)时不显示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="120" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
