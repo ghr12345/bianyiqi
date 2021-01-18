@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T03:10:53.628Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="IgX5HEDWtxIg8zy_UXqQ" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T03:11:21.345Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="XUtmi1kkN9XdOAUga8xs" version="14.2.4" type="github">
   <diagram id="POvenSWsjn2r-2rkdHrZ" name="Page-1">
     <mxGraphModel dx="1182" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
             <mxPoint x="440" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pVgQ2WiulGgzeKrbE1yl-14" value="1、版本升级&lt;br&gt;2、推荐UME网管&lt;br&gt;3、创建网元&lt;br&gt;4、开站&lt;br&gt;5、配置NSA小区&lt;br&gt;6、配置小区切换&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;........" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="pVgQ2WiulGgzeKrbE1yl-14" value="1、版本升级&lt;br&gt;2、推荐UME网管、迁移网管&lt;br&gt;3、创建网元、删除网元&lt;br&gt;4、开站&lt;br&gt;5、配置NSA小区&lt;br&gt;6、配置小区切换&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;........" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="770" y="568" width="170" height="100" as="geometry" />
         </mxCell>
       </root>
