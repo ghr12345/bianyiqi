@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T03:11:21.345Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="XUtmi1kkN9XdOAUga8xs" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T03:17:05.108Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="QaBbOEzKroqRrucf-KO3" version="14.2.4" type="github">
   <diagram id="POvenSWsjn2r-2rkdHrZ" name="Page-1">
     <mxGraphModel dx="1182" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,19 +104,19 @@
         <mxCell id="pVgQ2WiulGgzeKrbE1yl-2" value="flask Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="350" width="640" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pVgQ2WiulGgzeKrbE1yl-3" value="RF Code Source1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pVgQ2WiulGgzeKrbE1yl-3" value="RF Code Source1&lt;br&gt;&lt;br&gt;function_testcases" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pVgQ2WiulGgzeKrbE1yl-4" value="RF Code Source2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pVgQ2WiulGgzeKrbE1yl-4" value="RF Code Source2&lt;br&gt;&lt;br&gt;function_testcases" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pVgQ2WiulGgzeKrbE1yl-5" value="RF Code Source3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pVgQ2WiulGgzeKrbE1yl-5" value="RF Code Source3&lt;br&gt;&lt;br&gt;function_testcases" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pVgQ2WiulGgzeKrbE1yl-6" value="RF Code Source4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pVgQ2WiulGgzeKrbE1yl-6" value="RF Code Source4&lt;br&gt;&lt;br&gt;function_testcases" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pVgQ2WiulGgzeKrbE1yl-7" value="RF Code Source5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pVgQ2WiulGgzeKrbE1yl-7" value="RF Code Source5&lt;br&gt;&lt;br&gt;function_testcases" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pVgQ2WiulGgzeKrbE1yl-8" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pVgQ2WiulGgzeKrbE1yl-2" target="pVgQ2WiulGgzeKrbE1yl-3">
@@ -150,7 +150,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pVgQ2WiulGgzeKrbE1yl-14" value="1、版本升级&lt;br&gt;2、推荐UME网管、迁移网管&lt;br&gt;3、创建网元、删除网元&lt;br&gt;4、开站&lt;br&gt;5、配置NSA小区&lt;br&gt;6、配置小区切换&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;........" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="770" y="568" width="170" height="100" as="geometry" />
+          <mxGeometry x="820" y="568" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pVgQ2WiulGgzeKrbE1yl-19" value="run.bat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pVgQ2WiulGgzeKrbE1yl-20" value="run.bat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pVgQ2WiulGgzeKrbE1yl-25" value="run.bat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pVgQ2WiulGgzeKrbE1yl-26" value="run.bat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pVgQ2WiulGgzeKrbE1yl-27" value="run.bat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="440" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
