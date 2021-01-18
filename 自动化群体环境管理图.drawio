@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T05:58:54.056Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="YsMuCgyI4XyCmvkKrjKB" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T14:13:35.051Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="yt5Kfit5VBN_ZEVXGSRA" version="14.2.4" type="github">
   <diagram id="POvenSWsjn2r-2rkdHrZ" name="Page-1">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
         <mxCell id="pVgQ2WiulGgzeKrbE1yl-27" value="run.bat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="620" y="440" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pVgQ2WiulGgzeKrbE1yl-29" value="用户选择需要操作的基站和想要执行的功能，并通过http下发给RF部署机" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="pVgQ2WiulGgzeKrbE1yl-29" value="用户在界面上选择需要操作的基站和想要执行的功能，并通过http下发给RF部署机" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="760" y="250" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pVgQ2WiulGgzeKrbE1yl-30" value="http" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
